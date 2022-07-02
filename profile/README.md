@@ -8,5 +8,6 @@ Then join [this Server](https://discord.gg/ngkUdXQZ8P) or [invite the bot](https
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kayano-bot&color=grey&style=flat-square)
 
-Support the development:<br>
-[![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pukima)
+Support the development:
+
+[![Patreon Logo](https://user-images.githubusercontent.com/58347116/177017052-5f4ab6d9-3e9a-480f-8e9a-d9165165667d.png)](https://patreon.com/tako_discord)
