@@ -10,4 +10,4 @@ Then join [this Server](https://discord.gg/dfmXNTmzyp) or [invite the bot](https
 
 Support the development:
 
-[![Patreon Logo](https://user-images.githubusercontent.com/58347116/177017052-5f4ab6d9-3e9a-480f-8e9a-d9165165667d.png)](https://patreon.com/tako_discord)
+[![OpenCollective Logo](https://next-images.opencollective.com/_next/image?url=%2Fstatic%2Fimages%2Fopencollective-icon.png&w=48&q=100)](https://opencollective.com/tako)
