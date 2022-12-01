@@ -1,12 +1,13 @@
 # Tako
-Tako is a multipurpose bot for Discord written with discord.py. As of now it is in an open alpha state and a lot is planned. 
+### A Discord bot done right
+Tako is a multipurpose bot for Discord written with discord.py. Without any bullshit like pay- or votewalls.
 
-## Wanna try it out already?
-Then join [this Server](https://discord.gg/dfmXNTmzyp) or [invite the bot](https://discord.com/oauth2/authorize?client_id=878366398269771847&permissions=8&scope=applications.commands%20bot) to your own server!
+## Wanna try it out?
+Then join [this Server](https://dsc.gg/tako-server) or [invite the bot](https://dsc.gg/tako-bot) to your own server!
 
 <hr>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kayano-bot&color=grey&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tako-discord&color=grey&style=flat-square)
 
 Support the development:
 
