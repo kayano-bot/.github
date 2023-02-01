@@ -3,7 +3,7 @@
 Tako is a multipurpose bot for Discord written with discord.py. Without any bullshit like pay- or votewalls.
 
 ## Wanna try it out?
-Then join [this Server](https://dsc.gg/tako-server) or [invite the bot](https://dsc.gg/tako-bot) to your own server!
+Then join [this Server](https://dsc.gg/tako-server) or [invite the bot](https://discord.com/api/oauth2/authorize?client_id=878366398269771847&permissions=1376268971126&scope=bot%20applications.commands) to your own server!
 
 <hr>
 
