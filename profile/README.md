@@ -9,6 +9,6 @@ Then join [this Server](https://dsc.gg/tako-server) or [invite the bot](https://
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tako-discord&color=grey&style=flat-square)
 
-Support the development:
+Donate via Open Collective:
 
-[![OpenCollective Logo](https://next-images.opencollective.com/_next/image?url=%2Fstatic%2Fimages%2Fopencollective-icon.png&w=48&q=100)](https://opencollective.com/tako)
+[<img src="https://user-images.githubusercontent.com/58347116/222910367-12e1b17b-e2b7-497c-91e3-d2cac1aa094d.png" alt="Open Collective Logo" height="64px" />](https://opencollective.com/tako)
